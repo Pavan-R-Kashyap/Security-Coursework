@@ -1,4 +1,4 @@
-# APPLIED CRYPTOGRAPHY NOTES
+# Applied Cryptography Notes
 
 This repository contains personal notes created by **Pavan R Kashyap** for the **Applied Cryptography (UE20CS314)** course delivered by **Dr. Shruti Jadon** at **PES University**. The notes are intended to serve as a personal study aid and are shared for educational purposes.
 It covers topics discussed from Unit 01 to Unit 4 in Applied Cryptography-
