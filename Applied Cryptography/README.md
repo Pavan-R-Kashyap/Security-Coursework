@@ -1,11 +1,11 @@
 # APPLIED CRYPTOGRAPHY NOTES
 
 This repository contains personal notes created by **Pavan R Kashyap** for the **Applied Cryptography (UE20CS314)** course delivered by **Dr. Shruti Jadon** at **PES University**. The notes are intended to serve as a personal study aid and are shared for educational purposes.
-It covers topics discussed from Unit 01 to Unit 4 in Applied Cryptography.
-**Unit 01**: Introduction to Cryptography and Ciphers
-**Unit 02**: Symmetric Key Cryptography
-**Unit 03**:Public Key Cryptography
-**Unit 04**: Protocols and Hash functions
+It covers topics discussed from Unit 01 to Unit 4 in Applied Cryptography-
+1. **Unit 01**: Introduction to Cryptography and Ciphers
+2. **Unit 02**: Symmetric Key Cryptography
+3. **Unit 03**:Public Key Cryptography
+4. **Unit 04**: Protocols and Hash functions
 
 # Attribution
 Whilst the notes are that of Pavan R Kashyap, the scanning of it has been done by someone else. 
